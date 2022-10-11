@@ -3,8 +3,7 @@
 ## **Hey 👋 Nishant here**
 Iam a full stack developer and I love python!
 
-<br>
-<br>
+</br>
 
 - 💪 I am currently a freelance web developer.
 - 🔊 I love talking about tech, programming and productivty.
@@ -15,9 +14,7 @@ Iam a full stack developer and I love python!
 - 🌐 Check my [website](https://nishantp.vercel.app)
 
 
-
-
-<p style="display: flex;" align="left"><!-- .element: style="display: flex;" -->
+<!-- <p>
 
 <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 
@@ -42,9 +39,11 @@ Iam a full stack developer and I love python!
 <a href="#" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" height="50" /></a>  
 
 
-</p>
-<br>
-<br>
+</p> -->
+
+<br/>
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=NishantPacharne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
