@@ -1,7 +1,7 @@
-![](https://pbs.twimg.com/profile_banners/1546691207056617473/1657595461/1500x500)
+![](cover.png)
 
-## **Hey 👋 Nishant here**
-Iam a full stack developer and I love python!
+<!--- ## **Hey 👋 Nishant here**
+Iam a full stack developer and I love python! --->
 
 </br>
 
