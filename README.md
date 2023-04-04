@@ -11,7 +11,7 @@ Iam a full stack developer and I love python! --->
 - 🌱 I am currently learning nextjs.
 - 💞 I would love to collabrate on full stack web projects.
 - 📩 I can listen you at, hellonishantp@gmail.com
-- 🌐 Check my [website](https://nishantp.vercel.app)
+- 🌐 Check my [website](https://nishantpy.com)
 
 
 <!-- <p>
